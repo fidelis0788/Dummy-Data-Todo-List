@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    
+}
+li{
+     
+     display: flex;
+     margin-left: 600px;
+     
+}
+ol{
+    margin-top: 50px;
+}
+   
